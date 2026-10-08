@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello calculator!</h2>
+<h2>Hello CALCULATOR!</h2>
 </body>
 </html>
